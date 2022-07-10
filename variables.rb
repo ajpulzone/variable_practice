@@ -1,5 +1,9 @@
 dog_name = "Drake"
-age = 4
-weight = 50.1
-good_boy = true
-  
+my_name = "Annie"
+favorite_color = "blue"
+dog_breed = "GSP"
+
+my_age = 38
+dog_age = 4
+number_of_cars = 3
+outside_temp = 52
