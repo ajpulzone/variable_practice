@@ -1,7 +1,16 @@
 dog_name = "Drake"
+#dog_name = "Drake"
+dog_nane = "Derby"
+
 my_name = "Annie"
+
 favorite_color = "blue"
+#favorite_color = "blue"
+favorite_color = "turquoise"
+
 dog_breed = "GSP"
+#dog_name = "GSP"
+dog_breed = "German Shorthaired Pointer"  
 
 my_age = 38
 dog_age = 4
