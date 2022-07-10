@@ -7,3 +7,7 @@ my_age = 38
 dog_age = 4
 number_of_cars = 3
 outside_temp = 52
+
+dog_weight = 50.1
+desk_height = 37.3
+computer_weight = 5.3
